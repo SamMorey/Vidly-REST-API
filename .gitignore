@@ -1,0 +1,4 @@
+node_modules/
+coverage/
+.jshintrc
+logfile.log
